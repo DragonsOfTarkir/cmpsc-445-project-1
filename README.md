@@ -210,11 +210,8 @@ The results indicate that greenhouse gases, particularly CO₂, are the most sig
 
 ---
 
-## Submission
+## AI Usage Statement
 
-This repository includes:
-- Complete source code
-- Data collection and preprocessing pipeline
-- Regression models and analysis
-- Visualizations
-- Documentation
+AI tools were used to assist with this project
+
+---
